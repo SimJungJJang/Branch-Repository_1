@@ -1,4 +1,5 @@
-banana is delicious
+banana and apple is delicious
+
 #include <stdio.h>
 #include <stdlib.h>
 
