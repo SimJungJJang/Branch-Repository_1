@@ -1,4 +1,4 @@
-// C program for Merge Sort
+apple is delicious
 #include <stdio.h>
 #include <stdlib.h>
 
